@@ -9,6 +9,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
+#  при необходимости после установки spacy, использовать в терминале команду
+# python -m spacy download ru_core_news_sm
 
 # загрузка датасета и отделение слов только менеджера(за ненадобностью проверки слов клиента в задании)
 
